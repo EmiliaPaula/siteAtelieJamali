@@ -1,0 +1,231 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial scale=1.0">
+<title></title>
+</head>
+
+<body>
+
+<style type="text/css">
+   
+/* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+   
+body{ 
+ font-family: Trebuchet MS, Arial, Helvetica, sans-serif;   
+ margin:0; !important;    
+ padding:0;
+}
+  
+img{
+ border:0 none;
+ height:auto;
+ line-height:100%;
+ outline:none;
+ text-decoration:none;
+ display: block!important;	
+}
+  
+a img{
+ border:0 none;
+}
+  
+.imageFix{
+ display:block;
+}
+  
+table, td{
+ border-collapse:collapse;
+}
+  
+#bodyTable{
+ height:100% !important;
+ margin:0;
+ padding:0;
+ width:100% !important;
+}
+
+#ladoalado{
+ display: flex;
+ justify-content: center;
+ float: left;
+ margin: auto;		
+}
+
+</style>
+        
+<style>
+
+.ExternalClass{
+ width:100%;
+}
+   
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div{
+ line-height: 100%;
+}
+
+
+#outlook a{
+ padding:0;
+}
+
+table {
+ mso-table-lspace:0pt;
+ mso-table-rspace:0pt;
+}
+
+body {
+ -webkit-text-size-adjust:100%;
+ -ms-text-size-adjust:100%;
+}
+
+</style>
+
+<style>
+
+body *{
+ margin:0; !important;
+ padding:0;
+}
+
+</style>
+
+<center>
+ <table align="center" border="0" cellspacing="0" cellpadding="0">  
+  <tr>
+   <td>
+    <table align="center" border="0" cellspacing="0" cellpadding="0">
+     <tr>
+      <td align="left" style="font-size: 14px; font-family: Trebuchet MS, Arial, Helvetica, sans-serif; padding: 5px 0px 0px 0px; color: #8f8e8e">
+       <a href="%%view_email_url%%" style="text-decoration: none; color: #8f8e8e"> Ver on-line</a>
+      </td>
+      <td align="right" style="font-size: 14px; font-family: Trebuchet MS, Arial, Helvetica, sans-serif; padding: 5px 0px 0px 0px; color: #8f8e8e">
+       <a href="%%unsub_center_url%%" style="text-decoration: none; color: #8f8e8e">
+        Descadastre-se
+       </a>
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+    
+  <tr>
+   <td>
+    <img src="https://pixel.app.returnpath.net/pixel.gif?r=b6fd69bc4b3f301bbe6d50f292f3099c475afede" width = "1" height = "1" alt=""/>
+
+    <a href="https://www.rihappy.com.br/2252?PS=48&map=productClusterIds&O=OrderByTopSaleDESC" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/20200727_mail_rihappy_ofertas_exclusivas_01.png" alt="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" title="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" align="absmiddle" border="0" style="display: block;">
+    </a>
+   </td>
+  </tr>
+	 
+<tr>
+   <td>
+	  <a href="https://www.rihappy.com.br/2252?PS=48&map=productClusterIds&O=OrderByTopSaleDESC" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/20200727_mail_rihappy_ofertas_exclusivas_02.png" alt="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" title="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" align="absmiddle" border="0" style="display: block;">
+    </a>
+   </td>
+  </tr>
+	 
+	 <tr>
+   <td>
+	     <a href="https://www.rihappy.com.br/2252?PS=48&map=productClusterIds&O=OrderByTopSaleDESC" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/20200727_mail_rihappy_ofertas_exclusivas_03.png" alt="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" title="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" align="absmiddle" border="0" style="display: block;">
+    </a>
+   </td>
+  </tr>
+	 
+	 <tr>
+   <td>
+	     <a href="https://www.rihappy.com.br/2252?PS=48&map=productClusterIds&O=OrderByTopSaleDESC" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/20200727_mail_rihappy_ofertas_exclusivas_04.png" alt="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" title="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" align="absmiddle" border="0" style="display: block;">
+    </a>
+   </td>
+  </tr>
+	 
+	 <tr>
+   <td>
+	    <a href="https://www.rihappy.com.br/2252?PS=48&map=productClusterIds&O=OrderByTopSaleDESC" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/20200727_mail_rihappy_ofertas_exclusivas_05.png" alt="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" title="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" align="absmiddle" border="0" style="display: block;">
+    </a>
+   </td>
+  </tr>
+	 
+	 <tr>
+   <td>
+	     <a href="https://www.rihappy.com.br/2252?PS=48&map=productClusterIds&O=OrderByTopSaleDESC" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/20200727_mail_rihappy_ofertas_exclusivas_06.png" alt="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" title="Na Ri Happy você pode! Ofertas Exclusivas com até 75% OFF" align="absmiddle" border="0" style="display: block;">
+    </a>
+   </td>
+  </tr>
+	 
+	 
+	 <tr>
+   <td>
+	<a href="https://www.rihappy.com.br/cashback" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-1.png" alt="CashBack - Ganhe bônus para sua próxima compra!" title="CashBack - Ganhe bônus para sua próxima compra!" align="absmiddle" border="0" style="display: block;">
+    </a>
+   </td>
+  </tr>
+
+	 	 
+ <tr>
+   <td>
+	 
+     <div id="ladoalado"><a href="https://www.rihappy.com.br/delivery" target="_blank" style="text-decoration: none;"><img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-10.png" alt="Compre online e retire na loja" title="Compre online e retire na loja"><a href="https://www.rihappy.com.br/delivery" target="_blank" style="text-decoration: none;"><img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-3.png" alt="Compre pelo WhatsApp" title="Compre pelo WhatsApp"><a href="https://www.rihappy.com.br/delivery" target="_blank" style="text-decoration: none;"><img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-4.png" alt="Retire pelo drive-thru" title="Retire pelo drive-thru"><a href="https://www.rihappy.com.br/agendamento" target="_blank" style="text-decoration: none;"><img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-5.png" alt="Agende sua visita à loja" title="Agende sua visita à loja"></div> 
+   
+   </td>
+  </tr>
+	   
+	 			  
+  <tr>
+   <td>
+    <a href="https://www.rihappy.com.br/meusolzinho" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-6.png" alt="Meu Solzinho - O programa de benefícios da Ri Happy" title="Meu Solzinho - O programa de benefícios da Ri Happy" align="absmiddle" border="0" style="display: block;">
+    </a>  
+   </td>
+  </tr>
+		 
+ <tr>
+   <td>
+    <a href="https://modobrincar.rihappy.com.br/" target="_blank" style="text-decoration: none;">
+     <img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-11.png" alt="Blog Modo de Brincar - Acesse já!" title="Blog Modo de Brincar - Acesse já!" align="absmiddle" border="0" style="display: block;">
+    </a>  
+   </td>
+  </tr>
+		 
+		 
+   <tr>
+   <td>
+	 
+     <div id="ladoalado"><a href="https://www.rihappy.com.br/" target="_blank" style="text-decoration: none;"><img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-8.png" alt="Ri Happy" title="Ri Happy"><a href="https://www.rihappy.com.br/nossas-lojas" target="_blank" style="text-decoration: none;"><img src="https://rihappynovo.vteximg.com.br/arquivos/mail_rihappy_footer-9.png" alt="Encontre a loja mais próxima" title="Encontre a loja mais próxima"></div> 
+   
+   </td>
+  </tr>
+		
+			 
+
+<tr>
+  <td bgcolor="#efefef" style="font-size: 11px; font-family: Trebuchet MS, Arial, Helvetica, sans-serif; padding: 15px">
+*Promoção válida apenas no site www.rihappy.com.br, somente para os itens selecionados e na data de envio dessa mensagem. Consulte descontos diretamente na página do item. Condições válidas enquanto durarem os estoques dos produtos citados. Todas as condições do site podem sofrer alterações após do envio dessa mensagem sem aviso prévio. <br><br>
+Qualquer dúvida, entre em contato com o nosso atendimento. Verifique preços, estoque e condições no site antes de efetuar a compra. Se houver diferença de preço ou descrição do produto entre este e-mail e o site, a condição válida e praticada será a do site. Os preços do site podem ser diferentes nas lojas físicas. Imagens meramente ilustrativas. <br><br>
+¹Parcelamento em até 10x sem juros válido para compras com parcela mínima de R$ 20,00 e apenas nos cartões de crédito Visa, Mastercard, American Express, Diners, Hipercard e Elo. <br><br>
+²CashBack Ri Happy: É um bônus para a próxima compra concedido através de um cupom de desconto com o valor referente a 5% do total do último pedido realizado no site. Seu valor mínimo é de R$14,85 e o máximo de R$74,75. Você receberá um SMS para ativação do benefício no número de telefone cadastrado na compra, 48 horas após o faturamento do pedido. Para ativá-lo é necessário clicar no link recebido. Após ativado, você receberá outro SMS no número digitado com o cupom de desconto válido por 30 dias corridos. O cupom de desconto é elegível apenas para novos pedidos a partir do valor mínimo informado pelo SMS de resgate em produtos vendidos e entregues por Ri Happy, incluindo o valor do frete. <br><br>
+³Consulte a política de frete grátis para compras em www.rihappy.com.br/politicas-de-frete. Não se aplica a itens de Puericultura Pesada, Mini Veículos, Bicicletas e Playground. Válido apenas para produtos vendidos e entregues por Ri Happy. <br><br>
+Conheça também nosso Delivery. Refere-se a compras realizadas diretamente com as lojas físicas em funcionamento e toda a operação é realizada via WhatsApp. São praticados os preços das lojas físicas, diferentes dos preços do site. Consulte valores, condições de pagamento, frete, bairros atendidos e prazo de entrega via WhatsApp. Vendas efetuadas através desse canal não participam do programa de pontuação. <br><br>
+Nosso Endereço: Avenida Ipiranga, 200 - República. São Paulo - SP.
+  </td>
+
+  
+ 
+ </table>
+</center>
+<custom name="opencounter" type="tracking"/>
+</body>
+</html>
